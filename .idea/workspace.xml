@@ -28,19 +28,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.task_1.executor": "Run",
-    "Python.task_2.executor": "Run",
-    "Python.task_3.executor": "Run",
-    "Python.task_4.executor": "Run",
-    "Python.task_5.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "develop",
-    "last_opened_file_path": "C:/Users/79131/Git/Sprint_1"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.task_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_5.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/79131/Git/Sprint_1&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.task_5">
+}</component>
+  <component name="RunManager" selected="Python.task_4">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Sprint_1" />
       <option name="ENV_FILES" value="" />
@@ -179,8 +179,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.task_2" />
       <item itemvalue="Python.task_1" />
+      <item itemvalue="Python.task_2" />
       <item itemvalue="Python.task_3" />
       <item itemvalue="Python.task_4" />
       <item itemvalue="Python.task_5" />
